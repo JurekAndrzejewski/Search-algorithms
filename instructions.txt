@@ -1,0 +1,6 @@
+Implement a simple route finder for the game of snake. Simple implementation of Snake using
+PyGame2 has been provided on GitHub3 The game has been modified to include an additional
+type of tiles that reduces the score and the length of the snake by 1 and as such should be avoided.
+These tiles should be considered when implementing the cost function. Each time the algorithm
+should generate a full path to the "fruit" block, which will then be executed in sequence. The
+search algorithm should automatically stop when no path to the "fruit" can be found.
